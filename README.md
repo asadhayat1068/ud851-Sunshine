@@ -4,8 +4,8 @@ This is the my version of repository for the weather app that i will be building
 
 ## Tasks/Exercise completed so far
 
-    * Create Layout
-    * Add Weather List
-    * Networking
-    * Menus
-    * Polish
+* Create Layout
+* Add Weather List
+* Networking
+* Menus
+* Polish
